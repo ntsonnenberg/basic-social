@@ -8,7 +8,7 @@ Social media site using the MERN stack.
 
 - npm install
 
-### Configure MONGODB Cluster
+### Configure MongoDB Cluster
 
 - Login to MongoDB Atlas
 - Configure local cluster with username and password
